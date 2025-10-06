@@ -1,2 +1,2 @@
 # Single-Page-HTML-CV-Project
-A basic HTML CV page.
+# This is a practice exercise using HTML.
